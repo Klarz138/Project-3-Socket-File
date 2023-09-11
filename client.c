@@ -17,7 +17,7 @@
 #include <unistd.h>
 
 // constants:
-#define TARGET_IP_ADDR "128.198.162.60"
+#define TARGET_IP_ADDR "1.11.1.1" --> This information has changed since this repo has become public
 #define TARGET_PORT 8080
 #define SIZE 1024
 
