@@ -1,5 +1,4 @@
 //Katherine Larsen
-//CS 4420 Networks 
 //The goal of this project is to create a socket to transport files (instead of messages)
 //HOST SIDE
 #include <stdio.h>
